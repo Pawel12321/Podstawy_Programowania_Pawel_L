@@ -1,0 +1,24 @@
+Raport z programu : tromian.c
+
+	Dla a = 0, b = 0, c = (-5)
+	program powinien zakomunikowaæ brak rozwi¹zania   -   program dzia³a
+
+
+	Dla a = 4, b = (-5), c = (-6)
+	program powinien wyliczyæ x1 = -0,75 i x2 = 2   -   program dzia³a
+
+
+	Dla a = 2, b = 3, c = 4
+	program powinien zakomunikowaæ brak rozwi¹zania   -   program dzia³a
+
+
+	Dla a = 0, b + 0, c = 0
+	program powinien zakomunikowaæ dowolne rozwi¹zanie "x"   -   program dzia³a
+
+
+	Dla a = 0, b = 5, c = 2
+	program powinien zakomunukowaæ ¿e funkcja nigdy nie bêdzie kwadratowa i wyœwietliæ jedyne miejsce zerowe x = (-0,4)    -   program dzia³a
+
+
+	Dla a = 1, b = 2, c = 1
+	program powinien podaæ miejsce zerowe x = (-1)   -   program dzia³a
